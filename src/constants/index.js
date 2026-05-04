@@ -156,7 +156,7 @@ export const myProjects = [
       "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
       "Integrated Tailwind CSS for modern styling and UI enhancements.",
       "Optimized SEO and page speed using Vite.js for fast builds.",
-      "Implemented custom widgets and plugin compatibility for extended functionality.",
+      "Implemented custom widgets and plugin compatibility for extended functionbablu Mistryty.",
     ],
     href: "",
     logo: "",
@@ -231,12 +231,12 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "https://www.linkedin.com/in/bablu-mistry/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "https://www.instagram.com/bablu Mistry.sanatidev/reels/",
     icon: "/assets/socials/instagram.svg",
   },
 ];
@@ -296,10 +296,10 @@ export const reviews = [
     img: "https://robohash.org/john",
   },
   {
-    name: "Alice",
-    username: "@alice",
+    name: "bablu Mistryce",
+    username: "@bablu Mistryce",
     body: "This is hands down the best thing I've experienced. Highly recommend!",
-    img: "https://robohash.org/alice",
+    img: "https://robohash.org/bablu Mistryce",
   },
   {
     name: "Bob",

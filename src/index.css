@@ -93,7 +93,7 @@ body {
 }
 /* Button Components */
 .btn {
-  @apply relative px-1 py-4 text-sm text-center rounded-full font-extralight bg-primary w-[12rem] cursor-pointer overflow-hidden;
+  @apply relative px-1 py-4 text-sm text-center rounded-full font-bold text-right bg-primary w-[12rem] cursor-pointer overflow-hidden;
 }
 
 /* About Section */
